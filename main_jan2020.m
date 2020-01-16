@@ -7,7 +7,7 @@
 % Generates population of size n
 
 % 2) gen_sample.m
-% Generates sample of expected size (rho*N) for each simulation
+% Generates sample of expected size (rho*n) for each simulation
 
 % 3) se_calc.m
 % Calculates estimates for different standard error estimators 
