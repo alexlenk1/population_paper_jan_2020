@@ -9,13 +9,13 @@ The functions that are called within the main program are:
 Generates population of size n
 
 2) **gen_sample.m**
-Generates sample of expected size (rho*N) for each simulation
+Generates sample of expected size (rho*n) for each simulation
 
 3) **se_calc.m**
 Calculates estimates for different standard error estimators 
 
 4) **se_boots_calc.m**
-Calculates improved bootstrapped standard erorrs 
+Calculates improved bootstrapped standard errors 
 
 5) **gtable.m**
 Creates LaTex exportable table
